@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Sewa Reklame Baliho Dan Billboard
     content: >
-      Cari atau sewa reklame, baliho dan billboard dengan harga murah? Kami
+      > Cari atau sewa reklame, baliho dan billboard dengan harga murah? Kami
       menawarakan pelayanan terbaik untuk anda yang ingin beriklan menggunakan
       media luar ruangan seperti reklame, baliho dan billboard dengan pilihan
       harga pas banget untuk budget promosi dan tentunya aman, nyaman dan legal
