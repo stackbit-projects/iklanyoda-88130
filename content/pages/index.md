@@ -5,9 +5,13 @@ sections:
   - section_id: hero
     type: section_hero
     title: Sewa Reklame Baliho Dan Billboard
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Cari atau sewa reklame, baliho dan billboard dengan harga murah? Kami
+      menawarakan pelayanan terbaik untuk anda yang ingin beriklan menggunakan
+      media luar ruangan seperti reklame, baliho dan billboard dengan pilihan
+      harga pas banget untuk budget promosi dan tentunya aman, nyaman dan legal
+      sesuai dengan izin dan peraturan pemerintah tentang penyelenggaraan
+      reklame.
     actions:
       - label: Let's talk
         url: /contact
